@@ -57,7 +57,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 *jan 2005 – dez 2010*
 - Ferramentas de homologação de smart cards, CSPs e bibliotecas criptográficas.  
 - Relatórios técnicos para o ITI / Casa Civil sobre certificação ICP-Brasil.
-
+---
 ## Pausa na Carreira
 *2011 – 2012*
  - Ano sabático
@@ -67,7 +67,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 
 *2014 – 2022*
  - Pivot na carreira - Gestor de marketing
-
+---
 
 **Outras experiências**  
 - Instrutor Java Card • INCARD (2012)  \|  Instrutor Java Card • Casa da Moeda (2008)  
