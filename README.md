@@ -26,7 +26,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
  **Java** | Spring Boot, Spring Security, JPA, Hibernate, Servlets, JSP, JSF, Junit, Maven, Gradle |
 | **Metodologias** | SCRUM, Kanban, Pomodoro, GTD |
 | **Ferramentas** | Git, Maven, Jenkins, Azure Devops |
-| **Soft Skills** | Mentoria, liderança técnica, comunicação assíncrona, marketing & vendas, treinador e palestrante |
+| **Soft Skills** | Mentoria, liderança técnica, comunicação assíncrona, marketing & vendas, treinador e palestrante, autogerenciamento, hiperfoco / alta produtividade em trabalho remoto, Resolução de problemas complexos e pensamento sistêmico, adaptabilidade tecnológica e aprendizado contínuo. |
 
 ---
 
@@ -86,6 +86,9 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 - Treinamentos de Biometria — USP/LSITEC, 2009  
 
 ---
+
+## Certificações Planejadas
+Microsoft Certified: Azure AI Engineer Associate - Previsto para Q2/2025
 
 ## Prêmios & Reconhecimentos
 - **“Java Card Man”** — Sun/Oracle, 2008 (destaque nacional em Java Card)
