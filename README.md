@@ -86,7 +86,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 
 ## Prêmios & Reconhecimentos
 - **“Java Card Man”** — Sun/Oracle, 2008 (destaque nacional em Java Card)
-
+---
 
 ## Idiomas
 - **Inglês:** flavançado  
@@ -95,7 +95,11 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 ---
 
 ## Outras Habilidades e Interesses
-Modelagem & impressão 3D • Videomaker • Drones FPV • Artesanato em madeira • Voluntariado ONG **Alegria de Rua** (fundador/presidente, 2001 – 2014).
+- Modelagem & impressão 3D
+- Fotografia e Videografia
+- Drones FPV
+- Artesanato em madeira
+- Voluntariado ONG **Alegria de Rua** (fundador/presidente, 2001 – 2014).
 
 ---
 
