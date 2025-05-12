@@ -53,6 +53,9 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 *jan 2015 – dez 2019; jul 2022 – dez 2022 (PJ)*
 - Integrações MuleSoft ERP ↔ diversos serviços como Totvs (Magnum Bank).
 
+### Consultor Independente • Marketing Digital e Vendas • Jan 2002 - Dez 2012  
+- Atuou como arquiteto e especialista de definição e implementação de projetos envolvendo a plataforma Java Card no setor de serviços financeiros em governos e estadais brasileiras, como a Casa da Moeda.
+
 ### Especialista em Segurança Digital • LSITEC/USP — São Paulo  
 *jan 2005 – dez 2010*
 - Ferramentas de homologação de smart cards, CSPs e bibliotecas criptográficas.  
