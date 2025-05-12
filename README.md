@@ -69,7 +69,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
  - Pivot na carreira - Gestor de marketing
 ---
 
-## Outras experiências**
+## Outras experiências
 - Instrutor Java Card • INCARD (2012)
 - Instrutor Java Card • Casa da Moeda (2008)  
 - Desenvolvedor Java • Natura (2005)
