@@ -95,7 +95,7 @@ Microsoft Certified: Azure AI Engineer Associate - Previsto para Q2/2025
 ---
 
 ## Idiomas
-- **Inglês:** flavançado  
+- **Inglês:** avançado  
 - **Espanhol:** básico  
 
 ---
