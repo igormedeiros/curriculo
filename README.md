@@ -8,7 +8,7 @@ São Paulo – SP, Brasil • **[celular]** • igor.medeiros@gmail.com
 ## Resumo Profissional
 Engenheiro de Software com **+20 anos de carreira**, bacharel em Ciência da Computação (2003) e **especialização intensiva nos últimos 2 anos em Python, automação de processos com IA e sistemas multi-agente**.  
 
-Atuo como **senior AI Dev backend** na Accenture, definindo padrões corporativos de desenvolvimento Python, testes unitários e pipelines de GenAI/CrewAI para big player como Santander, C6, Bradesco, Pernambucanas e TIM.  
+Atuo como **senior AI Dev backend** na Accenture, definindo padrões corporativos de desenvolvimento Python, testes unitários e pipelines de GenAI/Agents para big players como Santander, C6, Bradesco, Pernambucanas e TIM.  
 
 Background sólido em **segurança digital** (LSITEC/USP — homologação de smart cards e relatórios para a Casa Civil), experiência comprovada em adaptação rápida a novas tecnologias e entrega de soluções nos setores de saúde, finanças, marketing e segurança.
 
