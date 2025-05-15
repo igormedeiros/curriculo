@@ -33,7 +33,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 
 ### Senior Python Engineer • Accenture — remoto  
 *jan 2020 – presente*
-- **Principal consultor** na definição de padrões Python e testes unitários para o setor financeiro; guia corporativo adotado por cinco bancos.  
+- **Consultor** na definição de padrões Python e testes unitários para o setor financeiro; guia corporativo adotado por cinco bancos.  
 - Projetou o **MCP Servers** para ServiceNow, Oracle, Documentos Office e integração desses serviços com API de plataforma interna com LLM e processos de RAG.
 - Desenvolvi um Wrapper **LiteLLM → CrewAI** para usar um endpoint que refenciava um agente com RAG.
 - Evangelista de Agents AI e MCP, participando com palestrante e treinador em diversos eventos internos, além de articular e estimular outros devs a compartilhar o conhecimento.
