@@ -2,7 +2,6 @@
 
 São Paulo – SP, Brasil • **[celular]** • igor.medeiros@gmail.com  
 [LinkedIn](https://linkedin.com/in/igormedeiros) • [GitHub](https://github.com/igormedeiros)  
-**PCD — surdez unilateral (neurinoma acústico)**  
 
 ---
 
