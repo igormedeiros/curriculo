@@ -4,33 +4,33 @@ São Paulo – SP, Brasil • **[celular]** • igor.medeiros@gmail.com
 [LinkedIn](https://linkedin.com/in/igormedeiros) • [GitHub](https://github.com/igormedeiros)  
 
 ---
-## Objetivo
-Aplicar minha expertise em desenvolvimento Python, agentes de IA e RAG para automatizar fluxos corporativos, com foco em soluções escaláveis e humanas que promovam, eficiência e integração entre clientes, profissionais e dados.
 
+## Objetivo  
+Aplicar minha expertise em desenvolvimento Python, agentes de IA e RAG para automatizar fluxos corporativos, com foco em soluções escaláveis e humanas que promovam eficiência e integração entre clientes, profissionais e dados.
 
 ---
 
-## Resumo Profissional
-Engenheiro de Software com **+20 anos de carreira**, bacharel em Ciência da Computação (2003) e **especialização intensiva nos últimos 2 anos em Python, automação de processos com IA e sistemas multi-agente**.  
+## Resumo Profissional  
+Engenheiro de Software com **+20 anos de carreira**, bacharel em Ciência da Computação (2003) e **especialização intensiva nos últimos 2 anos em Python, automação de processos com IA e sistemas multi-agente**.
 
-Atuo como **senior AI Dev backend** na Accenture, definindo padrões corporativos de desenvolvimento Python, testes unitários e pipelines de GenAI/Agents para big players como Santander, C6, Bradesco, Pernambucanas e TIM.  
+Atuo como **Senior AI Dev Backend** na Accenture, definindo padrões corporativos de desenvolvimento Python, testes unitários e pipelines de GenAI/Agents para big players como Santander, C6, Bradesco, Pernambucanas e TIM.
 
-Background sólido em **segurança digital** (LSITEC/USP — homologação de smart cards e relatórios para a Casa Civil), experiência comprovada em adaptação rápida a novas tecnologias e entrega de soluções nos setores de saúde, finanças, marketing e segurança.
+Background sólido em **segurança digital** (LSITEC/USP — homologação de smart cards e relatórios para a Casa Civil), com histórico de rápida adaptação tecnológica, entrega de valor e impacto em diversos setores.
 
 ---
 
 ## Competências-Chave
-| Categoria | Habilidades |
-|-----------|-------------|
-| **GenAI & LLMs** | Arquiteturas Llama, Openai GPT-x, 
-**AI Agents** | OpenAI Agents SDK, Crewai, RAG, embeddings, liteLLM, MCP |
-| **Desenvolvimento** | **Python**, FastAPI, pandas, petry, uv, pytest, pydantic |
+| Categoria           | Habilidades |
+|---------------------|-------------|
+| **GenAI & LLMs**    | Llama, GPT-x, LangChain, Chroma, RAG, embeddings, vector DB |
+| **AI Agents**       | OpenAI Agents SDK, CrewAI, LiteLLM, MCP, LangFlow |
+| **Desenvolvimento** | Python, FastAPI, pandas, petry, uv, pytest, pydantic |
 | **Back-end & DevOps** | Linux, Docker, Kubernetes, REST API |
-| **Bancos de Dados** | **PostgreSQL**, Oracle |
- **Java** | Spring Boot, Spring Security, JPA, Hibernate, Servlets, JSP, JSF, Junit, Maven, Gradle |
-| **Metodologias** | SCRUM, Kanban, Pomodoro, GTD |
-| **Ferramentas** | Git, Maven, Jenkins, Azure Devops |
-| **Soft Skills** | Mentoria, liderança técnica, comunicação assíncrona, marketing & vendas, treinador e palestrante, autogerenciamento, hiperfoco / alta produtividade em trabalho remoto, Resolução de problemas complexos e pensamento sistêmico, adaptabilidade tecnológica e aprendizado contínuo. |
+| **Bancos de Dados** | PostgreSQL, Oracle |
+| **Java**            | Spring Boot, Spring Security, JPA, Hibernate, Servlets, JSP, JSF, Junit, Maven, Gradle |
+| **Metodologias**    | SCRUM, Kanban, Pomodoro, GTD |
+| **Ferramentas**     | Git, Maven, Jenkins, Azure DevOps, n8n |
+| **Soft Skills**     | Mentoria, liderança técnica, comunicação assíncrona, marketing & vendas, trainer e palestrante, hiperfoco, pensamento sistêmico, adaptabilidade e aprendizado contínuo |
 
 ---
 
@@ -38,65 +38,67 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 
 ### Senior Python Engineer • Accenture — remoto  
 *jan 2020 – presente*
-- **Consultor** na definição de padrões Python e testes unitários para o setor financeiro; guia corporativo adotado por cinco bancos.  
-- Projetei o **MCP Servers** para ServiceNow, Oracle, Documentos Office e integração desses serviços com API de plataforma interna com LLM e processos de RAG.
-- Desenvolvi um Wrapper **LiteLLM → CrewAI** para usar um endpoint que refenciava um agente com RAG.
-- Evangelista de Agents AI e MCP, participando como palestrante e treinador em diversos eventos internos, além de articular e estimular outros devs a compartilhar o conhecimento.
-- Atuei em diferentes squads com code reviews, mentoria e Clean Code. 
-- Pipeline **Geração automatizada de testes unitários** com agentes GENAI. 
-- PoC Multi-Agents com LangFlow / Crewai
+- Consultor na definição de padrões Python e testes unitários para o setor financeiro; guia corporativo adotado por 5 bancos.
+- Projetei o **MCP Servers** para integração entre ServiceNow, Oracle e documentos Office com APIs e LLMs via RAG.
+- Desenvolvi um wrapper **LiteLLM → CrewAI**, permitindo uso de endpoint com agente RAG customizado.
+- Evangelista de IA e Agents MCP, palestrante interno no evento Jedi's e mentor técnico em diversos squads.
+- Criei pipeline de **geração automatizada de testes unitários** usando agentes GenAI.
+- PoC de agentes multiatores com LangFlow e CrewAI.
 
-### Fundador Healthcare AI4Care — remoto  
+### Fundador • AI4Care (HealthTech) — remoto  
 *abr 2025 – atual*
-- Plataforma de mensageria médica (n8n + Evolution API) orquestrada por agentes RAG.  
-- Wrapper **LiteLLM → OpenAI SDK** para hospedar Llama 3 local (compatível MCP).  
-- POC Agent via WhatsApp para interação com interface de prontuário do paciente internado no CTI.
+- Plataforma de mensageria médica com orquestração por agentes RAG (n8n + Evolution API).
+- Wrapper **LiteLLM → OpenAI SDK** para Llama 3 local com suporte MCP.
+- Agente conversacional via WhatsApp para prontuário de pacientes internados.
 
 ### Dev Integração • Scienza — remoto  
 *jan 2015 – dez 2019; jul 2022 – dez 2022 (PJ)*
-- Integrações MuleSoft ERP ↔ diversos serviços como Totvs (Magnum Bank).
+- Integrações MuleSoft ERP ↔ Totvs e serviços bancários (Magnum Bank).
 
-### Consultor Independente • Marketing Digital e Vendas • Jan 2002 - Dez 2012  
-- Atuou como arquiteto e especialista de definição e implementação de projetos envolvendo a plataforma Java Card no setor de serviços financeiros em governos e estadais brasileiras, como a Casa da Moeda.
+### Consultor Independente • Marketing Digital e Vendas  
+*jan 2002 – dez 2012*
+- Especialista Java Card em projetos para estatais como Casa da Moeda e entes governamentais.
 
 ### Especialista em Segurança Digital • LSITEC/USP — São Paulo  
 *jan 2005 – dez 2010*
-- Ferramentas de homologação de smart cards, CSPs e bibliotecas criptográficas.  
-- Relatórios técnicos para o ITI / Casa Civil sobre certificação ICP-Brasil.
----
-## Pausa na Carreira TI
-*2011 – 2012*
- - Ano sabático
-  
-*2012 – 2014*
- - Reabilitação após trauma serevo de saúde
+- Desenvolvimento de ferramentas de homologação de smart cards, CSPs e bibliotecas criptográficas.
+- Elaboração de relatórios técnicos para o ITI/Casa Civil — ICP-Brasil.
 
-*2014 – 2022*
- - Pivot na carreira - Gestor de marketing
 ---
 
-## Outras experiências
-- Instrutor Java Card • INCARD (2012)
+## Pausa na Carreira TI  
+*2011 – 2012* — Ano sabático  
+*2012 – 2014* — Reabilitação após trauma de saúde  
+*2014 – 2022* — Pivot na carreira: gestor de marketing
+
+---
+
+## Outras Experiências
+- Instrutor Java Card • INCARD (2012)  
 - Instrutor Java Card • Casa da Moeda (2008)  
-- Desenvolvedor Java • Natura (2005)
-- Designer/Dev Web • Motorola (2000 – 2005)
+- Desenvolvedor Java • Natura (2005)  
+- Designer / Dev Web • Motorola (2000 – 2005)
+
 ---
 
 ## Formação Acadêmica
 - **Bacharel em Ciência da Computação** — UNISA, 2000 – 2003
 
-### Outras Formações 
-- CrewAI - Coursera, 2025
+### Outras Formações
+- CrewAI — Coursera, 2025  
 - Storyteller — Instituto Gente, 2011  
 - Biometria — USP/LSITEC, 2009  
 
 ---
 
 ## Certificações Planejadas
-Microsoft Certified: Azure AI Engineer Associate - Previsto para Q2/2025
+- Microsoft Certified: Azure AI Engineer Associate — previsto para Q2/2025
+
+---
 
 ## Prêmios & Reconhecimentos
-- **“Java Card Man”** — Sun/Oracle, 2008 (destaque nacional em Java Card)
+- **Java Card Man** — Sun/Oracle, 2008 (destaque nacional na área)
+
 ---
 
 ## Idiomas
@@ -106,11 +108,11 @@ Microsoft Certified: Azure AI Engineer Associate - Previsto para Q2/2025
 ---
 
 ## Outras Habilidades e Interesses
-- Modelagem & impressão 3D
-- Fotografia e Videografia
-- Drones FPV
-- Artesanato em madeira
-- Voluntariado ONG **Alegria de Rua** (fundador/presidente, 2001 – 2014).
+- Modelagem & Impressão 3D  
+- Fotografia e Videografia  
+- Drones FPV  
+- Artesanato em madeira  
+- Voluntariado — Fundador da ONG **Alegria de Rua** (2001 – 2014)
 
 ---
 
