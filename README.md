@@ -1,7 +1,7 @@
 # Igor Medeiros
 
-São Paulo – SP, Brasil • **[Whatsapp] 1195001-6111** • igor.medeiros@gmail.com  
-[LinkedIn](https://linkedin.com/in/igormedeiros) • [GitHub](https://github.com/igormedeiros)  
+São Paulo – SP, Brasil • [WhatsApp](https://wa.me/5511950016111) • **[celular]** • igor.medeiros@gmail.com  
+[LinkedIn](https://linkedin.com/in/igormedeiros) • [GitHub](https://github.com/igormedeiros)
 
 ---
 
