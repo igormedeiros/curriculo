@@ -59,7 +59,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 - Ferramentas de homologação de smart cards, CSPs e bibliotecas criptográficas.  
 - Relatórios técnicos para o ITI / Casa Civil sobre certificação ICP-Brasil.
 ---
-## Pausa na Carreira
+## Pausa na Carreira TI
 *2011 – 2012*
  - Ano sabático
   
@@ -78,10 +78,12 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 ---
 
 ## Formação Acadêmica
-- **Bacharel em Ciência da Computação** — UNISA, 2000 – 2003  
+- **Bacharel em Ciência da Computação** — UNISA, 2000 – 2003
+
+### Outras Formações 
 - CrewAI - Coursera, 2025
-- Formação de Palestrante Profissional — Instituto Gente, 2011  
-- Treinamentos de Biometria — USP/LSITEC, 2009  
+- Storyteller — Instituto Gente, 2011  
+- Biometria — USP/LSITEC, 2009  
 
 ---
 
