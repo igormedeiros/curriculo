@@ -38,9 +38,8 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 - Desenvolvi um Wrapper **LiteLLM → CrewAI** para usar um endpoint que refenciava um agente com RAG.
 - Evangelista de Agents AI e MCP, participando como palestrante e treinador em diversos eventos internos, além de articular e estimular outros devs a compartilhar o conhecimento.
 - Atuei em diferentes squads com code reviews, mentoria e Clean Code. 
-- Pipeline **Geração automatizada de testes unitários** com agentes CrewAI reduziu **95 %** do tempo de geração dos.  
+- Pipeline **Geração automatizada de testes unitários** com agentes GENAI. 
 - PoC Multi-Agents com LangFlow / Crewai
-- Desde jan 2023 atuo também como **Desenvolvedor Backend** em entregas cross para Santander, C6 e Bradesco, criando automações Python e ferramentas multi-agent.
 
 ### Fundador Healthcare AI4Care — remoto  
 *abr 2025 – atual*
