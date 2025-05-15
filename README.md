@@ -11,7 +11,7 @@ Aplicar minha expertise em desenvolvimento Python, agentes de IA e RAG para auto
 ---
 
 ## Resumo Profissional  
-Engenheiro de Software com **+20 anos de carreira**, bacharel em Ciência da Computação (2003) e **especialização intensiva nos últimos 2 anos em Python, automação de processos com IA e sistemas multi-agente**.
+Engenheiro de Software com **+20 anos de carreira**, bacharel em Ciência da Computação (2003) e **especialização intensiva nos últimos 3 anos em Python, automação de processos com IA e sistemas multi-agente**.
 
 Atuo como **Senior AI Dev Backend** na Accenture, definindo padrões corporativos de desenvolvimento Python, testes unitários e pipelines de GenAI/Agents para big players como Santander, C6, Bradesco, Pernambucanas e TIM.
 
