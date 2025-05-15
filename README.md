@@ -4,6 +4,11 @@ São Paulo – SP, Brasil • **[celular]** • igor.medeiros@gmail.com
 [LinkedIn](https://linkedin.com/in/igormedeiros) • [GitHub](https://github.com/igormedeiros)  
 
 ---
+## Objetivo
+Aplicar minha expertise em desenvolvimento Python, agentes de IA e RAG para automatizar fluxos corporativos, com foco em soluções escaláveis e humanas que promovam, eficiência e integração entre clientes, profissionais e dados.
+
+
+---
 
 ## Resumo Profissional
 Engenheiro de Software com **+20 anos de carreira**, bacharel em Ciência da Computação (2003) e **especialização intensiva nos últimos 2 anos em Python, automação de processos com IA e sistemas multi-agente**.  
