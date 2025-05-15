@@ -1,5 +1,5 @@
 # Igor Medeiros
-** Engenheiro de Software | GenAI & Agentes Multiatores | PCD **
+**Engenheiro de Software | GenAI & Agentes Multiatores | PCD**
 
 São Paulo – SP, Brasil • [WhatsApp 11950016111](https://wa.me/5511950016111) • igor.medeiros@gmail.com  
 [LinkedIn](https://linkedin.com/in/igormedeiros) • [GitHub](https://github.com/igormedeiros)
