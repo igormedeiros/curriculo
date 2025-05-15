@@ -36,7 +36,7 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 - **Consultor** na definição de padrões Python e testes unitários para o setor financeiro; guia corporativo adotado por cinco bancos.  
 - Projetei o **MCP Servers** para ServiceNow, Oracle, Documentos Office e integração desses serviços com API de plataforma interna com LLM e processos de RAG.
 - Desenvolvi um Wrapper **LiteLLM → CrewAI** para usar um endpoint que refenciava um agente com RAG.
-- Evangelista de Agents AI e MCP, participando com palestrante e treinador em diversos eventos internos, além de articular e estimular outros devs a compartilhar o conhecimento.
+- Evangelista de Agents AI e MCP, participando como palestrante e treinador em diversos eventos internos, além de articular e estimular outros devs a compartilhar o conhecimento.
 - Atuei em diferentes squads com code reviews, mentoria e Clean Code. 
 - Pipeline **Geração automatizada de testes unitários** com agentes CrewAI reduziu **95 %** do tempo de geração dos.  
 - PoC Multi-Agents com LangFlow / Crewai
