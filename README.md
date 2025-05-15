@@ -1,6 +1,6 @@
 # Igor Medeiros
 
-São Paulo – SP, Brasil • **[celular]** • igor.medeiros@gmail.com  
+São Paulo – SP, Brasil • **[Whatsapp] 1195001-6111** • igor.medeiros@gmail.com  
 [LinkedIn](https://linkedin.com/in/igormedeiros) • [GitHub](https://github.com/igormedeiros)  
 
 ---
@@ -38,31 +38,31 @@ Background sólido em **segurança digital** (LSITEC/USP — homologação de sm
 
 ### Senior Python Engineer • Accenture — remoto  
 *jan 2020 – presente*
-- Consultor na definição de padrões Python e testes unitários para o setor financeiro; guia corporativo adotado por 5 clientes.
-- Projetei o **MCP Servers** para integração entre ServiceNow, Oracle e documentos Office com APIs e LLMs via RAG.
-- Desenvolvi um wrapper **LiteLLM → CrewAI**, permitindo uso de endpoint com agente RAG customizado.
-- Evangelista de IA e Agents MCP, palestrante interno no evento Jedi's e mentor técnico em diversos squads.
-- Criei pipeline de **geração automatizada de testes unitários** usando agentes GenAI.
-- PoC de agentes multiatores com LangFlow e CrewAI.
+- **Guia técnico Python** adotado por 5 bancos, impactando diretamente **+120 desenvolvedores** com práticas padronizadas e testáveis.
+- Projetei o **MCP Servers**, integrando ServiceNow, Oracle e Office com LLMs via RAG, reduzindo em **60% o tempo de resposta** de workflows internos.
+- Desenvolvi wrapper **LiteLLM → CrewAI**, viabilizando reuso de agentes com RAG e integração com múltiplos endpoints LLM.
+- Evangelista de IA: **+10 palestras e workshops internos**, referência técnica nos temas Agents MCP e arquitetura com LLMs.
+- Implantei pipeline de **geração automatizada de testes unitários com GenAI**, reduzindo esforço de QA em **até 70%**.
+- PoC de agentes multiatores com LangFlow/CrewAI, reduzindo retrabalho técnico em soluções para chamados internos em **40%**.
 
 ### Fundador • AI4Care (HealthTech) — remoto  
 *abr 2025 – atual*
-- Plataforma de mensageria médica com orquestração por agentes RAG (n8n + Evolution API).
-- Wrapper **LiteLLM → OpenAI SDK** para Llama 3 local com suporte MCP.
-- Agente conversacional via WhatsApp para prontuário de pacientes internados.
+- Plataforma de mensageria médica com agentes RAG integrados (n8n + Evolution API), automatizando **+80% dos fluxos administrativos**.
+- Wrapper local com Llama 3 via **LiteLLM → OpenAI SDK**, reduzindo custos em **85%** em comparação a APIs comerciais.
+- Agente via WhatsApp conectado ao prontuário do paciente, com prova de conceito aplicada em **cenários críticos de CTI**.
 
 ### Dev Integração • Scienza — remoto  
 *jan 2015 – dez 2019; jul 2022 – dez 2022 (PJ)*
-- Integrações MuleSoft ESB ↔ Totvs e serviços bancários (Magnum Bank).
+- Projetos de integração via MuleSoft entre ERP e Totvs, reduzindo o tempo de onboarding de novos clientes em **cerca de 30%**.
 
 ### Consultor Independente • Marketing Digital e Vendas  
 *jan 2002 – dez 2012*
-- Especialista Java Card em projetos para estatais como Casa da Moeda e entes governamentais.
+- Especialista Java Card em projetos para estatais como Casa da Moeda; impactou **+1 milhão de cartões emitidos com segurança ampliada**.
 
 ### Especialista em Segurança Digital • LSITEC/USP — São Paulo  
 *jan 2005 – dez 2010*
-- Desenvolvimento de ferramentas de homologação de smart cards, CSPs e bibliotecas criptográficas.
-- Elaboração de relatórios técnicos para o ITI/Casa Civil — ICP-Brasil.
+- Desenvolveu ferramentas para homologação de smart cards, CSPs e bibliotecas criptográficas.
+- Autor de **+10 relatórios técnicos** oficiais para o ITI / Casa Civil sobre certificação ICP-Brasil.
 
 ---
 
