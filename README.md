@@ -59,6 +59,7 @@ _Jan 2023 – presente_
 - Desenvolvimento de **soluções com agentes de IA para resolução automática de tickets** em ambiente de sustentação, com gestão inteligente de incidentes via RAG.
 - Desenvolvi uma PoC com Google ADK para use case semelhante ao apresentado pelo Google na apresentação e demo do ADK.
 - Desenvolvi wrapper **LiteLLM → CrewAI**, viabilizando reuso de agentes com RAG e integração com múltiplos endpoints LLM.
+- - Integração com **soluções de IA proprietárias da Accenture** como **GenWizard** e **RefineRH AI** utilizando frameworks de orquestração de agentes (**LangChain 1.0**). Desenvolvimento de **microserviços proxy com LiteLLM** para intermediar chamadas entre diferentes LLMs (OpenAI, Azure OpenAI), permitindo que orquestradores como LangChain consumam modelos internos como se fossem LLMs reais, garantindo compatibilidade e flexibilidade na arquitetura de agentes.
 - Desenvolvimento de ferramentas internas com GenAI e automação em Python, incluindo:
   - Configuração em lote de layouts de templates Word para contratos de financiamento e seguro de veículos.
   - Atualização dinâmica do arquivo **application-default.properties** com IPs dos pods Kubernetes em ambientes de desenvolvimento de projetos Java Spring Boot.
