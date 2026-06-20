@@ -15,7 +15,7 @@
 
 Engenheiro de IA Sênior com mais de 20 anos em tecnologia e foco atual em **agentes de IA**, **RAG**, **LLMs** e **liderança técnica**. Nos últimos quatro anos, mergulhei no ecossistema de IA aplicada e atuei em projetos reais em produção para grandes clientes — desenhando, implementando e colocando agentes em operação, com integração via APIs, RAG, governança e operação contínua.
 
-Trabalho construindo um **harness** com **assistentes de codificação** como **Claude Code**, **Codex**, **AntiGravity CLI**, **PiCode** e **Open Code** como pair programmers de produção para conduzir o desenvolvimento ágil. Aplico **SDD**, **TDD** e **skills** modulares para compor esse harness. Atuo também com **MCP (Model Context Protocol)** na integração de agentes com sistemas corporativos, em **backend e frontend quando o problema exige**.
+Trabalho construindo um **harness** com **assistentes de codificação** como **Claude Code**, **Codex**, **AntiGravity CLI**, **PiCode** e **Open Code** como pair programmers de produção para conduzir o desenvolvimento ágil. Aplico **SDD**, **TDD** e **skills** modulares para compor esse harness. Atuo também com **MCP (Model Context Protocol)** e **Claude Agent SDK** na integração e construção de agentes com sistemas corporativos, em **backend e frontend quando o problema exige**.
 
 Como **Pessoa com Deficiência (PcD)** — surdez unilateral (CID 10 H90.4) e paralisia facial (CID 10 S04.5) —, mantenho alta capacidade analítica, adaptabilidade e atenção prática a acessibilidade.
 
@@ -27,6 +27,7 @@ O que entrego é a capacidade de **conduzir o desenvolvimento de software com IA
 
 - **Assistentes de codificação como pair programmers de produção:** **Claude Code**, **Codex**, **AntiGravity CLI**, **PiCode** e **Open Code** no dia a dia.
 - **Uso extensivo de MCP (Model Context Protocol):** integração dos pair programmers com sistemas corporativos, ferramentas internas e dados de projeto. **Azure DevOps é um dos servidores MCP que utilizo bastante no dia a dia.**
+- **Claude Agent SDK:** construção de agentes customizados e integrações headless com a família Claude, com foco em produção, observabilidade e governança. Aplicado em pipelines internos e PoCs com clientes.
 - **SDD (Spec-Driven Development):** especificação executável como ponto de partida.
 - **TDD (Test-Driven Development):** prática padrão de qualidade.
 - **Skills modulares:** Hermes Agent, Paperclip, Headroom e outros skills desenvolvidos localmente, compondo o harness.
@@ -37,9 +38,9 @@ O que entrego é a capacidade de **conduzir o desenvolvimento de software com IA
 ## Competências-Chave
 
 ### AI Agents e RAG
-- **Frameworks e orquestração:** LangChain 1.0, CrewAI, MCP, Google ADK
-- **LLMs:** Google Gemini, Anthropic Claude, OpenAI GPT-x, Ollama (modelos locais)
-- **Arquiteturas:** RAG, embeddings, vector DB, fluxos multiagente, engenharia de prompts e contexto
+- **Frameworks e orquestração:** LangChain 1.0, CrewAI, MCP, Google ADK, Claude Agent SDK.
+- **LLMs:** Google Gemini, Anthropic Claude, OpenAI GPT-x, Ollama (modelos locais).
+- **Arquiteturas:** RAG, embeddings, vector DB, fluxos multiagente, engenharia de prompts e contexto.
 
 ### Engenharia e Plataforma
 - **Diversidade de linguagens:** Python, JavaScript/TypeScript, Java, C# — foco em conduzir o desenvolvimento com IA, não em stack fixa.
@@ -85,6 +86,7 @@ O que entrego é a capacidade de **conduzir o desenvolvimento de software com IA
 - Integração com **ServiceNow via MCP Servers**, conectando ServiceNow, Oracle e Office a LLMs via RAG, com **redução de 60% no tempo de resposta** de workflows internos.
 - Soluções com agentes de IA para **resolução automática de tickets** em sustentação, com gestão inteligente de incidentes via RAG.
 - **PoC com Google ADK** em caso de uso inspirado na demonstração oficial do Google.
+- **Construção de agentes headless com Claude Agent SDK**, integrando a família Claude a pipelines internos e fluxos multiagente em produção, com observabilidade e governança.
 - Integração com soluções proprietárias da Accenture, como **GenWizard** e **Refinery AI** (parceria Accenture-NVIDIA), com **LangChain 1.0**.
 - **Microsserviços proxy com LiteLLM** para interoperabilidade entre modelos e orquestradores.
 - Ferramentas internas com IA e automação em Python:
@@ -147,6 +149,7 @@ O que entrego é a capacidade de **conduzir o desenvolvimento de software com IA
 - **Python** — Accenture (MyLearning) e Udemy
 - **Gen AI** — Coursera e Accenture (MyLearning)
 - **CrewAI** — Coursera, 2025
+- **Claude Agent SDK** — Anthropic / estudo aplicado em produção, 2025
 - **Git / GitHub** — LinkedIn, 2022
 - **Postgres Fundamentals** — LinkedIn, 2022
 - **Spring Learning Spring com Spring Boot** — LinkedIn, 2022
